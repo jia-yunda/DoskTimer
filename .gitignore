@@ -1,0 +1,10 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# PyInstaller 构建产物（可由打包命令重新生成）
+build/
+dist/
+
+# 本地运行时配置（自动生成，含个人窗口位置）
+config.json
